@@ -1,3 +1,6 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
+Disallow: /booked-back/success.html
+Disallow: /booked-back/BookedBack-Quote-Follow-Up-Kit-v1.zip
 Sitemap: https://njcleichner-ship-it.github.io/booked-back/sitemap.xml
+
